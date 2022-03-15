@@ -1,0 +1,14 @@
+div {
+  display: flex;
+}
+
+div > input {
+  margin-left: 5px;
+  margin-top: 18px;
+  width: 140px;
+  height: 16px;
+}
+
+.hidden {
+  display: none;
+}
