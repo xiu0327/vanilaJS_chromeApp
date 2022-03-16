@@ -14,3 +14,9 @@ addEventListener 함수를 통해 어떻게 이벤트를 추가하는지 패턴�
 ![과제2](https://user-images.githubusercontent.com/78461009/157924257-946bd1b8-d363-4b5e-aa75-710cf19d96ee.gif)
 
 무난하게 성공한 두 번째 과제.
+
+>과제3. 2022. 03. 16 월요일-화요일
+
+![과제3](https://user-images.githubusercontent.com/78461009/158427211-d5d977ca-a8ae-4030-83a6-0095c841e98a.gif)
+
+꽤나 어려웠던 문제 .. js 코드는 어떻게 짜겠는데, html과 css 짜는 게 더 어려웠다 .. 이런 건 디자이너가 해줘야 하는 거 아냐 ...? ㅜㅜ 아무튼 꾸역꾸역 해냈다..
